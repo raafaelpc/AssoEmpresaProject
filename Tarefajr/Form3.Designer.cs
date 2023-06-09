@@ -114,7 +114,7 @@
             // 
             label9.AutoSize = true;
             label9.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point);
-            label9.Location = new Point(186, 240);
+            label9.Location = new Point(197, 240);
             label9.Name = "label9";
             label9.Size = new Size(322, 28);
             label9.TabIndex = 43;
@@ -124,7 +124,7 @@
             // 
             textBox8.Cursor = Cursors.No;
             textBox8.ImeMode = ImeMode.Off;
-            textBox8.Location = new Point(303, 324);
+            textBox8.Location = new Point(314, 324);
             textBox8.Name = "textBox8";
             textBox8.ReadOnly = true;
             textBox8.Size = new Size(100, 25);
@@ -132,7 +132,7 @@
             // 
             // textBox10
             // 
-            textBox10.Location = new Point(303, 284);
+            textBox10.Location = new Point(314, 284);
             textBox10.Name = "textBox10";
             textBox10.Size = new Size(100, 25);
             textBox10.TabIndex = 45;
@@ -141,7 +141,7 @@
             // label13
             // 
             label13.AutoSize = true;
-            label13.Location = new Point(189, 327);
+            label13.Location = new Point(200, 327);
             label13.Name = "label13";
             label13.Size = new Size(109, 19);
             label13.TabIndex = 46;
@@ -150,7 +150,7 @@
             // label15
             // 
             label15.AutoSize = true;
-            label15.Location = new Point(203, 287);
+            label15.Location = new Point(214, 287);
             label15.Name = "label15";
             label15.Size = new Size(86, 19);
             label15.TabIndex = 44;
@@ -159,7 +159,7 @@
             // radioButton3
             // 
             radioButton3.AutoSize = true;
-            radioButton3.Location = new Point(397, 198);
+            radioButton3.Location = new Point(408, 198);
             radioButton3.Name = "radioButton3";
             radioButton3.Size = new Size(95, 23);
             radioButton3.TabIndex = 30;
@@ -170,7 +170,7 @@
             // radioButton4
             // 
             radioButton4.AutoSize = true;
-            radioButton4.Location = new Point(303, 198);
+            radioButton4.Location = new Point(314, 198);
             radioButton4.Name = "radioButton4";
             radioButton4.Size = new Size(74, 23);
             radioButton4.TabIndex = 29;
@@ -181,7 +181,7 @@
             // label11
             // 
             label11.AutoSize = true;
-            label11.Location = new Point(237, 198);
+            label11.Location = new Point(248, 198);
             label11.Name = "label11";
             label11.Size = new Size(47, 19);
             label11.TabIndex = 28;
@@ -189,7 +189,7 @@
             // 
             // button6
             // 
-            button6.Location = new Point(314, 412);
+            button6.Location = new Point(323, 412);
             button6.Name = "button6";
             button6.Size = new Size(79, 25);
             button6.TabIndex = 23;
@@ -203,7 +203,7 @@
             button5.CausesValidation = false;
             button5.FlatStyle = FlatStyle.Flat;
             button5.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.World);
-            button5.Location = new Point(520, 50);
+            button5.Location = new Point(531, 50);
             button5.Name = "button5";
             button5.Size = new Size(125, 25);
             button5.TabIndex = 22;
@@ -213,7 +213,7 @@
             // 
             // button4
             // 
-            button4.Location = new Point(425, 49);
+            button4.Location = new Point(436, 49);
             button4.Name = "button4";
             button4.Size = new Size(79, 25);
             button4.TabIndex = 21;
@@ -223,21 +223,21 @@
             // 
             // textBox6
             // 
-            textBox6.Location = new Point(303, 98);
+            textBox6.Location = new Point(314, 98);
             textBox6.Name = "textBox6";
             textBox6.Size = new Size(100, 25);
             textBox6.TabIndex = 12;
             // 
             // textBox7
             // 
-            textBox7.Location = new Point(303, 146);
+            textBox7.Location = new Point(314, 146);
             textBox7.Name = "textBox7";
             textBox7.Size = new Size(100, 25);
             textBox7.TabIndex = 14;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(303, 50);
+            textBox2.Location = new Point(314, 50);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(100, 25);
             textBox2.TabIndex = 4;
@@ -245,7 +245,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(187, 53);
+            label3.Location = new Point(198, 53);
             label3.Name = "label3";
             label3.Size = new Size(96, 19);
             label3.TabIndex = 2;
@@ -254,7 +254,7 @@
             // label8
             // 
             label8.AutoSize = true;
-            label8.Location = new Point(237, 149);
+            label8.Location = new Point(248, 149);
             label8.Name = "label8";
             label8.Size = new Size(40, 19);
             label8.TabIndex = 13;
@@ -263,7 +263,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(237, 101);
+            label7.Location = new Point(248, 101);
             label7.Name = "label7";
             label7.Size = new Size(46, 19);
             label7.TabIndex = 11;
@@ -302,16 +302,16 @@
             // 
             label16.AutoSize = true;
             label16.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point);
-            label16.Location = new Point(219, 275);
+            label16.Location = new Point(219, 274);
             label16.Name = "label16";
-            label16.Size = new Size(322, 28);
+            label16.Size = new Size(323, 28);
             label16.TabIndex = 19;
-            label16.Text = "Vincule asssociados nas empresa";
+            label16.Text = "Vincule empresas nos associados";
             // 
             // textBox9
             // 
             textBox9.Cursor = Cursors.No;
-            textBox9.Location = new Point(336, 359);
+            textBox9.Location = new Point(336, 358);
             textBox9.Name = "textBox9";
             textBox9.ReadOnly = true;
             textBox9.Size = new Size(100, 25);
@@ -319,7 +319,7 @@
             // 
             // textBox5
             // 
-            textBox5.Location = new Point(336, 319);
+            textBox5.Location = new Point(336, 318);
             textBox5.Name = "textBox5";
             textBox5.Size = new Size(100, 25);
             textBox5.TabIndex = 40;
@@ -349,20 +349,20 @@
             // label14
             // 
             label14.AutoSize = true;
-            label14.Location = new Point(270, 362);
+            label14.Location = new Point(224, 361);
             label14.Name = "label14";
-            label14.Size = new Size(46, 19);
+            label14.Size = new Size(102, 19);
             label14.TabIndex = 41;
-            label14.Text = "Nome";
+            label14.Text = "Nome empresa";
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(236, 322);
+            label6.Location = new Point(236, 321);
             label6.Name = "label6";
-            label6.Size = new Size(86, 19);
+            label6.Size = new Size(77, 19);
             label6.TabIndex = 39;
-            label6.Text = "Id Associado";
+            label6.Text = "Id Empresa";
             // 
             // dateTimePicker1
             // 

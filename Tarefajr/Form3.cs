@@ -325,7 +325,7 @@ namespace Tarefajr
             string nome = textBox6.Text, cnpj = textBox7.Text;
 
             UpdateEmpresa(id, nome, cnpj, status);
-            UpdateVinculoEmpresa(id,status);
+            UpdateVinculoEmpresa(id, status);
         }
 
         private void UpdateVinculoEmpresa(int id, int status)
