@@ -1,4 +1,4 @@
-# S4EProject
+# Projeto em WebForm de cadastros de associados e empresas
 
 #SQL DA TABELA E PROCEDURES DISPONIVEL NOS ARQUIVOS COM NOME "SqlQueryProjeto.sql"
 
